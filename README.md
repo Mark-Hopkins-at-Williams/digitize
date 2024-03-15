@@ -2,6 +2,8 @@
 
 Visualizes the behavior of a neural network trained on MNIST handwritten digits.
 
+![screenshot](screenshot.png)
+
 ### Quickstart
 
 ```python digitize.py model.pt```
